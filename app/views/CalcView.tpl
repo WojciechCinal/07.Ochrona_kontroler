@@ -17,7 +17,7 @@
             <span class="icon solid major fa-cloud"></span>
             <h1>Witaj w prostym kalkulatorze kredytowym.<br />
                 Wykorzystano szablon <strong>PHOTON</strong> ze strony: <a href="http://html5up.net">HTML5 UP</a>.</h1>
-            <p>Zadanie 6b. Kontroler  - Namespaces</p>
+            <p>Zadanie 7. Kontroler  - Ochrona</p>
             <ul class="actions special">
                 <li><a href="#one" class="button scrolly">Przejdź do kalkulatora</a></li>
             </ul>
